@@ -1,0 +1,23 @@
+{
+  "repo": "twinmotion-2026-pro",
+  "product": "Twinmotion 2026 Pro",
+  "kind": "3d",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "archviz",
+  "topics": [
+    "twinmotion-2026",
+    "archviz-realtime",
+    "presentation-paths",
+    "twinmotion-windows",
+    "phasing-tools",
+    "how-to-install-twinmotion",
+    "twinmotion-desktop-package",
+    "client-present-suite",
+    "season-weather-desk",
+    "twinmotion-pro-edition"
+  ],
+  "site": "toolix.me"
+}
